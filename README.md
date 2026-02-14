@@ -1,8 +1,8 @@
-# Nurse-stress-prediction-wearable-sensors
-This repository contains code and data for predicting stress levels in nurses using wearable sensors.
+# Cognitive Load Burnout detection system
+This repository contains code and data for predicting stress levels using wearable sensors.
 
 # Project Description
-This project investigates the use of physiological signals from wearable devices to detect stress levels in nurses working in a hospital. The dataset contains information collected from nurses who wore a watch that recorded their heart rate, skin temperature, and electrodermal activity (EDA) while they reported their corresponding levels of stress.
+This project investigates the use of physiological signals from wearable devices to detect stress levels . The dataset contains information collected from nurses who wore a watch that recorded their heart rate, skin temperature, and electrodermal activity (EDA) while they reported their corresponding levels of stress.
 
 The aim of this project is to evaluate the performance of different machine learning models for predicting stress levels based on the recorded physiological signals. The project also examines which physiological signals are most relevant for detecting stress and provides recommendations for improving the accuracy and reliability of stress detection using wearable technology.
 
